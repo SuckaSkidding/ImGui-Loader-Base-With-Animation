@@ -1,4 +1,4 @@
-# LoaderBase
+#ImGui Loader Base Remake
 This is a cheat loader remake in ImGui ( RedEngine aka Speedy Loader ) with animation.
 Plz give me credits when u release.. 
 Make sure to compile on x64 Release.
